@@ -1,0 +1,6 @@
+{
+  "name": "Téléchargeur d'Épreuves EducMaster",
+  "description": "Une application complète pour rechercher, filtrer et télécharger en masse de manière simplifiée et rapide (au format ZIP) les épreuves de l'enseignement secondaire du Bénin depuis EducMaster.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
